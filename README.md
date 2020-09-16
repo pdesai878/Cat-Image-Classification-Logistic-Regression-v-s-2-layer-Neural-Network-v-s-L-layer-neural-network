@@ -9,3 +9,30 @@
 <img src="https://github.com/pdesai878/Cat-Image-Classification-Logistic-Regression-vs-2-layer-Neural-Network-vs-L-layer-neural-network/blob/master/images/2-layer-nn-model.png">
 <br><br><hr>
 <img src="https://github.com/pdesai878/Cat-Image-Classification-Logistic-Regression-vs-2-layer-Neural-Network-vs-L-layer-neural-network/blob/master/images/L-layered-nn-model.png">
+<br>
+<hr>
+<h3>
+  <table>
+    <tr>
+      <td> Model</td>
+      <td>Train Accuracy</td>
+      <td>Test Accuracy</td>
+    </tr>
+     <tr>
+      <td> Logistic Regression model</td>
+      <td>99.0%</td>
+      <td>70.0%</td>
+    </tr>
+     <tr>
+      <td> 2-layer-Neural-Network</td>
+      <td>100.0%</td>
+      <td>72.0%</td>
+    </tr>
+     <tr>
+      <td> L-layer-Neural-Network</td>
+      <td>99.0%</td>
+      <td>82.0%</td>
+    </tr>
+  </table>
+  </h3>
+    
