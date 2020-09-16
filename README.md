@@ -11,6 +11,7 @@
 <img src="https://github.com/pdesai878/Cat-Image-Classification-Logistic-Regression-vs-2-layer-Neural-Network-vs-L-layer-neural-network/blob/master/images/L-layered-nn-model.png">
 <br>
 <hr>
+<center> <h2> SUMMARY</h2></center>
 <h3>
   <table>
     <tr>
